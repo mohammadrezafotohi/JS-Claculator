@@ -1,0 +1,20 @@
+{
+    "name": "js-calculator",
+    "version": "1.0.0",
+    "description": "It's a Calculator that made with javascript(ESM)",
+    "type": "module",
+    "main": "calculator.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "node ./calculator.js"
+    },
+    "keywords": [
+        "javascript",
+        "typescript",
+        "npm",
+        "node.js",
+        "Calculator"
+    ],
+    "author": "Ilia Fotohi <mohammadrezafotohijob@gmail.com>",
+    "license": "ISC"
+}
