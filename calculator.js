@@ -17,7 +17,7 @@ console.clear();
 
 // show some details
 console.log("Hello World, I'm Ilia Fotohi!!!\n");
-console.log("This is a Calcualtor that wrote with JS(ESM)\n");
+console.log("This is a Calcualtor that wrote with JS(ESM) and Node.js\n");
 console.log("Enjoy and Please E-mail me with : mohammadrezafotohijob@gamil.com\n");
 console.log("=============================================================================\n");
 
